@@ -1,3 +1,7 @@
+# Change
+
+This small change was done to use this library in an AWS Lambda function.
+
 # Whisper
 
 [[Blog]](https://openai.com/blog/whisper)
